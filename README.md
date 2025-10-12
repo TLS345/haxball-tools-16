@@ -1,4 +1,4 @@
-#!rr Command for Haxball
+# !rr Command for Haxball
 
 **By TLS / Teleese**  
 **License:** Apache 2.0
